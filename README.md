@@ -3,9 +3,13 @@
 
 #### Description:
 - Объявление типов переменных в TypeScript
-- Реализация интерфейсов в TypeScript
-- Разработка типизированных функций с использованием TypeScript
-- Объявление классов и создание их экземпляров в TypeScript
-- Определение универсальных шаблонов в TypeScript
-- Доступ к внешним библиотекам из TypeScript
-- Упорядочение кода с помощью пространств имен TypeScript
+- Функции (Function)
+- Объекты (Object)
+- Классы (Classes)
+- Наследование (inheritance)
+- Пространство имен и модули (Namespaces & Modules)
+- Интерфейсы (type interface)
+- Общие типы (Generic)
+- Декораторы (Decoration)
+- Утилиты (Utility Types)
+
