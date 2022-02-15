@@ -50,5 +50,17 @@ class User_5 {
 
 //аксессры - геттеры и сеттеры специальные свойска класса которые ведут себя как свойства этого класса
 
+//Как изменить приватное свойство в классе
+class User5 {
+    private age: number = 20;
+
+    constructor(public name: string) {
+    }
+}
+const max = new User5('max');
+//max.age = 30;//Property 'age' is private
+
+//есть две возможности
+
 
 

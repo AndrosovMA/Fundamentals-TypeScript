@@ -87,7 +87,7 @@ const create = (o:object | null): void => {
 
 }
 
-//=======Multyple type for one value=======
+//=======Multiple type for one value=======
 let id: number | string
 
 //=======Type - пользовательские типы======= наподобие alias

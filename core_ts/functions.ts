@@ -14,6 +14,8 @@ const createSkills = (name: string, ...skills: Array<String>) => {
 }
 createSkills('max', 'TS', 'es6', 'React');
 
+
+
 //Return type is number - описание типа возвращаемых данных после () скобок
 const sum = (first: number, second: number): number => first + second;
 
