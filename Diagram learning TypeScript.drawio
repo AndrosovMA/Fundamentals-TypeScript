@@ -1,1 +1,46 @@
-<mxfile host="app.diagrams.net" modified="2022-02-15T05:28:07.788Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.82 Safari/537.36" etag="6lfkHvcS1ulPftSJM4M9" version="16.5.6" type="github"><diagram id="ckAerFM2I3_QofpGEC0q" name="Page-1">7Vltb9s2EP41ArYPGSTKkqWPsh1vA5a2WFoM+yhLlK1VEg2ajuP++vHdR0tundZOgDQJQNDHuyN599yLaS+cto+/03y9uiMlbjzkl49eOPMQSlPER0HYK0KSRIqwpHWpSMGBcF9/wZroa+q2LvHGYWSENKxeu8SCdB0umEPLKSU7l60ijbvrOl/iHuG+yJs+9Z+6ZCt9CzQ+0P/A9XJldg7iVK20uWHWN9ms8pLsACm89cIpJYSpWfs4xY2wnbGLkpufWLUHo7hj5wgUd39/WM6LT+uH99s2ZrTK/21utJaHvNnqC3/cr/n9ab1m+thsb2xBybYrsVDne+Fkt6oZvl/nhVjdcedz2oq1Df8U8GlVN82UNIRK2bDMcVIVnL5hlHzGYCUuEryohATp2L3ezZwLU4YfT144sGbk8MOkxYzuOYsWCCPtCg29wHhid3BkYHC2Ak6MNC3X2Fla1Qfz8om28BOsjXrW9lDc8F0nCz5ZionHr54gj1t4kshxLikTLiY/qnEGxlsg4st5rMW1bn5UoF6s/GIE+RhIkUyOc0lRqhRrBDZKNI8+ydwwcKIPmKc9wZm+ghijX7n8jdRxtKHlktJ6k8RMZmC3r0hpa1Jz3wYzBYis27YLTKU5hpkEcqRT/OgrXF/kmi9wgObAjPOeHUZg7hpTX971sr5nBrycCQx2+++IQxlKKpcGyI3LvKmXHZ83uFLg+P4403E1HvfjCsUDcZVeK66ib8cV+k1bOIWeSgBik55TTuHyZITeDIYc8he8YuG88xC/nq+BKOc8GdbdUs17R34g/NJiaVBntxV2EYICDFXdcUAIJYOqMN90WM8PQ6vJF7iZ5MXnpZQ1ib0jHbarhJaYHq0ASEqmD2RTs5oIaBYceDJUBSxrXov/OmJo67IUJz4Gs+HPNNnyXaCaoGTkVJNReibq42uhPu6h/k8LcpjbU4BVm1hHQ9UE4vyCtb+KxP9g7Zd/GlWArv4u2ROY9nPAaeGA08JrOS35dqoKrRdnrs+eP3PFeStc2y02a9M8HHUNtqxlWrtKQGI+kmMIIJY57Ymu71O39E1AIxPo8cCTgIshtwFRO9rzpD3Z6YBmaLID56RnVtjmWB5lO5nT8YNI6W/J9NzW3MTX3uTIl06m6cm43KxF5bYRcdyuq47CBoaChYLaGNBhf44ATC2/hWPWS9enonYwYo+6Vsa/znElnzaYvstbbHtc3XkMiQDF7t1/DnjDkuNfAOuBC/VoqAQNQX10LaibAz0V63db8ezSCAxpVFXcScgXPrLasifBUpwzAz2x742nb+B8DnCaxBu/OBr7T1BnofGdKrkKihJ2bq9yFgxvBvoq3QMEoO7DxHzbe44Yu48xstNAfq/Vge2NyOvVtiskDE6cCm4XOj07lPUpZlsqJphSGY7D7yb649h5XnC+AtibwBbSB/dERgkCfeVR7YOm8cHD0fDrzFswX7TShCO31IyDl+6qgv6L59xC93V+wwxe/CtmEPaM/n7xn/hx5LWZXAtEqYv7YOhB8nldMOq5YNrkm82r9UDieuCKMcA/Hn4zk2vgh8fw9n8=</diagram></mxfile>
+<mxfile host="app.diagrams.net" modified="2022-02-16T04:15:14.550Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.82 Safari/537.36" etag="zMsgWzLKzw9w3106dW7u" version="16.5.6" type="github">
+  <diagram id="ckAerFM2I3_QofpGEC0q" name="Page-1">
+    <mxGraphModel dx="920" dy="473" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="cMRPgFcUpvOum6trfaYl-1" value="TypeScript" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="359" y="120" width="110" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="cMRPgFcUpvOum6trfaYl-2" value="&lt;b&gt;типы аннотаци&lt;/b&gt;и(объявления переменных) - явные и неявные&lt;br&gt;let x:number;&lt;br&gt;let y = 5;&lt;br&gt;let z; //определен тип как any" style="rounded=0;whiteSpace=wrap;fontSize=12;html=1;align=left;" parent="1" vertex="1">
+          <mxGeometry x="290" y="668" width="260" height="90" as="geometry" />
+        </mxCell>
+        <mxCell id="cMRPgFcUpvOum6trfaYl-5" value="&lt;b&gt;Примитивные типы -&lt;/b&gt; boolean, number, string, &lt;b&gt;void &lt;/b&gt;(func без возвращаемого значения), null, undefined , &lt;b&gt;enum&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;fontSize=12;labelBackgroundColor=none;labelBorderColor=none;html=1;labelPosition=center;verticalLabelPosition=middle;align=left;verticalAlign=middle;" parent="1" vertex="1">
+          <mxGeometry y="600" width="260" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cMRPgFcUpvOum6trfaYl-8" value="&lt;b&gt;Не примитивные типы -&lt;/b&gt;&amp;nbsp;объект, функции, класс, интерфейс, массив, литералы, never" style="rounded=0;whiteSpace=wrap;fontSize=12;labelBackgroundColor=none;labelBorderColor=none;html=1;labelPosition=center;verticalLabelPosition=middle;align=left;verticalAlign=middle;" parent="1" vertex="1">
+          <mxGeometry x="290" y="600" width="260" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cMRPgFcUpvOum6trfaYl-9" value="&lt;span&gt;&lt;b&gt;Пользовательские типы&lt;/b&gt;&lt;br&gt;type UserName = string;&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;fontSize=12;labelBackgroundColor=none;labelBorderColor=none;html=1;labelPosition=center;verticalLabelPosition=middle;align=left;verticalAlign=middle;fontStyle=0" parent="1" vertex="1">
+          <mxGeometry y="668" width="260" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="cMRPgFcUpvOum6trfaYl-10" value="&lt;span&gt;&lt;b&gt;Multiple type for one value:&lt;/b&gt;&lt;br&gt;type id: number | string;&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;fontSize=12;labelBackgroundColor=none;labelBorderColor=none;html=1;labelPosition=center;verticalLabelPosition=middle;align=left;verticalAlign=middle;fontStyle=0" parent="1" vertex="1">
+          <mxGeometry y="715" width="260" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="cMRPgFcUpvOum6trfaYl-11" value="&lt;span&gt;&lt;b&gt;Never type:&amp;nbsp;&lt;/b&gt;&lt;br&gt;-при бесконечном цикле function&lt;br&gt;-когда function return error и не заканчивает выполнение&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;fontSize=12;labelBackgroundColor=none;labelBorderColor=none;html=1;labelPosition=center;verticalLabelPosition=middle;align=left;verticalAlign=middle;fontStyle=0" parent="1" vertex="1">
+          <mxGeometry y="768" width="260" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="cMRPgFcUpvOum6trfaYl-12" value="Function" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry y="180" width="230" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cMRPgFcUpvOum6trfaYl-13" value="Object" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="590" y="170" width="230" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="cMRPgFcUpvOum6trfaYl-14" value="Class" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="580" y="80" width="230" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Wgzo_U2azRaQrl_Qb15R-1" value="Базовые типы" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry y="70" width="230" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Wgzo_U2azRaQrl_Qb15R-2" value="Базовые типы" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry y="520" width="230" height="30" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
