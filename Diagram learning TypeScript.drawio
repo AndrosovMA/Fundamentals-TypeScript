@@ -1,11 +1,35 @@
-<mxfile host="app.diagrams.net" modified="2022-02-16T04:15:14.550Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.82 Safari/537.36" etag="zMsgWzLKzw9w3106dW7u" version="16.5.6" type="github">
+<mxfile host="app.diagrams.net" modified="2022-02-28T16:44:37.002Z" agent="5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/98.0.4758.102 Safari/537.36" etag="lLTEsVm9otACwsRf7nmP" version="16.6.4" type="github">
   <diagram id="ckAerFM2I3_QofpGEC0q" name="Page-1">
-    <mxGraphModel dx="920" dy="473" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1063" dy="436" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="ZjuPzmhCMAeKS-eq2sKx-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=13;fontColor=#000000;" parent="1" source="cMRPgFcUpvOum6trfaYl-1" target="Wgzo_U2azRaQrl_Qb15R-1" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="310" y="175" />
+              <mxPoint x="310" y="35" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZjuPzmhCMAeKS-eq2sKx-11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=13;fontColor=#000000;" parent="1" source="cMRPgFcUpvOum6trfaYl-1" target="cMRPgFcUpvOum6trfaYl-12" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="370" y="175" />
+              <mxPoint x="370" y="175" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="ZjuPzmhCMAeKS-eq2sKx-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;fontSize=13;fontColor=#000000;" parent="1" source="cMRPgFcUpvOum6trfaYl-1" target="cMRPgFcUpvOum6trfaYl-13" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="310" y="175" />
+              <mxPoint x="310" y="305" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="cMRPgFcUpvOum6trfaYl-1" value="TypeScript" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="359" y="120" width="110" height="50" as="geometry" />
+          <mxGeometry x="365" y="150" width="110" height="50" as="geometry" />
         </mxCell>
         <mxCell id="cMRPgFcUpvOum6trfaYl-2" value="&lt;b&gt;типы аннотаци&lt;/b&gt;и(объявления переменных) - явные и неявные&lt;br&gt;let x:number;&lt;br&gt;let y = 5;&lt;br&gt;let z; //определен тип как any" style="rounded=0;whiteSpace=wrap;fontSize=12;html=1;align=left;" parent="1" vertex="1">
           <mxGeometry x="290" y="668" width="260" height="90" as="geometry" />
@@ -25,20 +49,38 @@
         <mxCell id="cMRPgFcUpvOum6trfaYl-11" value="&lt;span&gt;&lt;b&gt;Never type:&amp;nbsp;&lt;/b&gt;&lt;br&gt;-при бесконечном цикле function&lt;br&gt;-когда function return error и не заканчивает выполнение&lt;br&gt;&lt;/span&gt;" style="rounded=0;whiteSpace=wrap;fontSize=12;labelBackgroundColor=none;labelBorderColor=none;html=1;labelPosition=center;verticalLabelPosition=middle;align=left;verticalAlign=middle;fontStyle=0" parent="1" vertex="1">
           <mxGeometry y="768" width="260" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="cMRPgFcUpvOum6trfaYl-12" value="Function" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry y="180" width="230" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="cMRPgFcUpvOum6trfaYl-13" value="Object" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="590" y="170" width="230" height="30" as="geometry" />
+          <mxGeometry x="39" y="290" width="160" height="30" as="geometry" />
         </mxCell>
         <mxCell id="cMRPgFcUpvOum6trfaYl-14" value="Class" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;fontStyle=1" parent="1" vertex="1">
-          <mxGeometry x="580" y="80" width="230" height="30" as="geometry" />
+          <mxGeometry x="590" y="20" width="230" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Wgzo_U2azRaQrl_Qb15R-1" value="Базовые типы" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry y="70" width="230" height="30" as="geometry" />
+        <mxCell id="Wgzo_U2azRaQrl_Qb15R-2" value="Базовые типы" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="15" y="490" width="230" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Wgzo_U2azRaQrl_Qb15R-2" value="Базовые типы" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry y="520" width="230" height="30" as="geometry" />
+        <mxCell id="ZjuPzmhCMAeKS-eq2sKx-1" value="Generic" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#D4E1F5;strokeColor=none;fontColor=#333333;fontStyle=1" parent="1" vertex="1">
+          <mxGeometry x="570" y="230" width="90" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZjuPzmhCMAeKS-eq2sKx-7" value="" style="group" parent="1" vertex="1" connectable="0">
+          <mxGeometry x="39" y="160" width="311" height="100" as="geometry" />
+        </mxCell>
+        <mxCell id="cMRPgFcUpvOum6trfaYl-12" value="Function" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;fontStyle=1" parent="ZjuPzmhCMAeKS-eq2sKx-7" vertex="1">
+          <mxGeometry width="161" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZjuPzmhCMAeKS-eq2sKx-6" value="&lt;span style=&quot;font-size: 13px&quot;&gt;- типизирование аргументов&lt;br&gt;-типизирование return&lt;br style=&quot;font-size: 13px&quot;&gt;- опциональные аргументы&lt;br&gt;- rest type&lt;br&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=2;fontSize=13;" parent="ZjuPzmhCMAeKS-eq2sKx-7" vertex="1">
+          <mxGeometry x="81" y="30" width="230" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="ZjuPzmhCMAeKS-eq2sKx-8" value="&lt;span style=&quot;font-size: 13px&quot;&gt;- пользовательские type&lt;br&gt;- &amp;amp; в объединении типов&lt;br&gt;&lt;/span&gt;&lt;span style=&quot;font-family: &amp;#34;jetbrains mono&amp;#34; , monospace&quot;&gt;&amp;nbsp; &amp;nbsp; &lt;/span&gt;&lt;span style=&quot;background-color: rgb(255 , 255 , 204) ; font-family: &amp;#34;jetbrains mono&amp;#34; , monospace&quot;&gt;type User = Person &amp;amp; { nickName: string }&lt;/span&gt;&lt;span style=&quot;font-size: 13px&quot;&gt;&lt;br&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=2;fontSize=13;" parent="1" vertex="1">
+          <mxGeometry x="120" y="320" width="420" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="ZjuPzmhCMAeKS-eq2sKx-13" value="" style="group" parent="1" vertex="1" connectable="0">
+          <mxGeometry x="39" y="20" width="190" height="140" as="geometry" />
+        </mxCell>
+        <mxCell id="Wgzo_U2azRaQrl_Qb15R-1" value="Базовые типы" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#f5f5f5;strokeColor=#666666;fontColor=#333333;fontStyle=1" parent="ZjuPzmhCMAeKS-eq2sKx-13" vertex="1">
+          <mxGeometry width="160" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="ZjuPzmhCMAeKS-eq2sKx-2" value="&lt;span style=&quot;font-size: 13px&quot;&gt;- number&lt;br style=&quot;font-size: 13px&quot;&gt;- string&lt;br style=&quot;font-size: 13px&quot;&gt;- boolean&lt;br style=&quot;font-size: 13px&quot;&gt;&lt;div style=&quot;font-size: 13px&quot;&gt;&lt;span style=&quot;font-size: 13px&quot;&gt;- null&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 13px&quot;&gt;&lt;span style=&quot;font-size: 13px&quot;&gt;- underfined&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 13px&quot;&gt;&lt;span style=&quot;font-size: 13px&quot;&gt;- void&lt;/span&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 13px&quot;&gt;&lt;span style=&quot;font-size: 13px&quot;&gt;-enum&lt;/span&gt;&lt;/div&gt;&lt;/span&gt;" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;fontStyle=2;fontSize=13;" parent="ZjuPzmhCMAeKS-eq2sKx-13" vertex="1">
+          <mxGeometry x="81" y="30" width="109" height="110" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
