@@ -1,4 +1,4 @@
-/*
+/**
 TypeScript — это язык с открытым кодом, разработанный корпорацией Майкрософт.
 TypeScript — это надмножество JavaScript.
 Основной компонент TypeScript — это система типов. В TypeScript можно задать тип данных переменной или параметра, используя указание типа.
@@ -33,7 +33,8 @@ enum Season  {
 let current: Season = Season.Winter;
 console.log('employeeStatus', current); // 1
 console.log(Season[current]); //Winter
-/*
+
+/**
 Самое годное применение enum это ограниченный набор значений каких либо параметров, хороший пример дни
 недели или название месяцев, либо например роль user в сервисе - enum Role { Admin, Manager, Client },
 а затем присваиваешь пользователям одно из этих значений например user.role = Role.Manager, и затем в
@@ -88,6 +89,7 @@ const create = (o:object | null): void => {
 }
 
 //=======Multiple type for one value=======
+//=======Еще называют union type=======
 let id: number | string
 
 //=======Type - пользовательские типы======= наподобие alias
@@ -97,7 +99,16 @@ id1 = '10';
 
 
 
-//3. Параметры типов
+// Литеральные типы - присваивания конкретного значения
+const age = 'age'; //тип будет age
+let b: 'hi' = 'hi';
 
+type direction = 'left' | 'right';
+function moveDog (direction: direction) {}
+//moveDog('left')// теперь можем передать только два варианта лефт или райт
 
+//костомизация типов
+let l: any = 5;
 
+let c = l as number;
+let g = <string>l // такая запись при использования JSX будет не валидна

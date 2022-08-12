@@ -21,6 +21,7 @@ const sum = (first: number, second: number): number => first + second;
 
 //Function variable type
 let myFanc: (firstArg: string) => void;
+
 function oldFunc(name: string):void {
     alert(`Hellow ${name}, nice to see you!`);
 }
